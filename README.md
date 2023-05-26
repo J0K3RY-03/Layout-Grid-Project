@@ -1,6 +1,4 @@
-# Name of project  
-
-Layout Grid Project  
+# Visit my project    
 
 [visit my project](https://j0k3ry-03.github.io/Layout-Grid-Project/) 
 
